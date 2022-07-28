@@ -2,7 +2,7 @@
 
 Cuaderno de notas interactivo sobre la Transformada de Fourier Continua y Discreta y sus Aplicaciones
 
-Escrito como Python Notebook. Contiene muchas celdas de Python3 que permiten ilustrar los conceptos presentados en las notas y experimentar para profundizar en el conocimiento de la Transformada de Fourier Continua y la Transformada de FourierDiscreta
+Escrito como Python Notebook. Contiene muchas celdas de Python3 que permiten ilustrar los conceptos presentados en las notas y experimentar para profundizar en el conocimiento de la Transformada de Fourier Continua y la Transformada de Fourier Discreta
 
 ## Usage
 
